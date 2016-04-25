@@ -1,6 +1,6 @@
 {
   "name": "zookeeper-reconnect",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Zookeeper clients that automatically reconnects",
   "main": "lib/zookeeper-reconnect.js",
   "scripts": {
